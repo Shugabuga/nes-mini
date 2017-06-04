@@ -63,6 +63,10 @@ SG-1000
 Atari Lynx
 Ports
 Virtual Boy
+Kodi
+
+4/06/2017
+Added Kodi support (by HeyItsShuga)
 
 20/05/2017
 Another big update.  The carousel has been themed and pixel art icon has been drawn for every system.  To see see the updated carousel you will need to update to the very latest version of Retropie via the Retropie setup script https://github.com/retropie/retropie-setup/wiki/updating-retropie
